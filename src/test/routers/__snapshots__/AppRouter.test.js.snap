@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <AppRouter/> Debe mostrar el componente de marvel si el usuario está autenticado 1`] = `ReactWrapper {}`;
+
+exports[`Pruebas en <AppRouter/> Debe mostrar login si el usuario NO está autenticado 1`] = `ReactWrapper {}`;
