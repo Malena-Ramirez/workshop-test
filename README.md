@@ -1,26 +1,34 @@
 # Workshop pruebas unitarias o de integración
+
 <ol>
-<li>¿Que hace la librería enzyme? </li>
-  <p>  Es una herramienta que facilita </p>
-  
-<li>¿Cuáles son los tipos de pruebas y en qué consisten? </li>
+  <li>¿Que hace la librería enzyme? </li>
+    <p>  Es una herramienta que facilita </p>
+    
+  <li>¿Cuáles son los tipos de pruebas y en qué consisten? </li>
+    <p>  Es una herramienta que facilita </p>
 
-¿Qué es Shallow?
+  <li>¿Qué es Shallow?</li>
+    <p>  Es una herramienta que facilita </p>
 
-¿Qué es wrapper?
+  <li>¿Qué es wrapper?</li>
+    <p>  Es una herramienta que facilita </p>
 
-5. ¿Qué hace el snapshots?
+  <li> ¿Qué hace el snapshots?</li>
+    <p>  Es una herramienta que facilita </p>
 
-6. ¿Qué hace el mount?
+  <li> ¿Qué hace el mount?</li>
+    <p>  Es una herramienta que facilita </p>
 
-7. ¿Qué es toEqual y para qué sirve?
+  <li> ¿Qué es toEqual y para qué sirve?</li>
+    <p>  Es una herramienta que facilita </p>
 
-8. ¿Qué es toMatchSnapshot?
+  <li> ¿Qué es toMatchSnapshot?</li>
+    <p>  Es una herramienta que facilita </p>
 
-9. ¿Que hace la propiedad provider?
+  <li> ¿Que hace la propiedad provider?</li>
+    <p>  Es una herramienta que facilita </p>
 
-10. ¿Qué es toStrictEqual y para qué sirve?
+  <li>  ¿Qué es toStrictEqual y para qué sirve?</li>
+    <p>  Es una herramienta que facilita </p>
 
-  </ol>
-
-
+</ol>
